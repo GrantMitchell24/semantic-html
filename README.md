@@ -10,13 +10,13 @@ GitHub, VS Code, Web Browser
 [GRANT REPO](http://github.com/GrantMitchell24/semantic-html)
 
 *GITHUB LINK:*
-[GITHU BLINK](http://GrantMitchell24.github.io/semantic-html)
+[GITHUB LINK](http://GrantMitchell24.github.io/semantic-html)
 
 *Author*
 Grant Mitchell
 
 *License*
-See Repo Please.
+See Repo
 
 ![Preview image](https://github.com/grantmitchell24/semantic-html/blob/main/assets/images/semantic-html.webpage.png?raw=true);
 
