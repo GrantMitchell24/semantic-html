@@ -18,4 +18,5 @@ Grant Mitchell
 *License*
 See Repo
 
+![Preview image](https://github.com/grantmitchell24/semantic-html/blob/main/assets/images/semantic-html.webpage.png?raw=true);
 
